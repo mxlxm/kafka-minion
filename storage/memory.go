@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/google-cloud-tools/kafka-minion/kafka"
-	"github.com/google-cloud-tools/kafka-minion/options"
+	"github.com/mxlxm/kafka-minion/kafka"
+	"github.com/mxlxm/kafka-minion/options"
 	log "github.com/sirupsen/logrus"
 )
 

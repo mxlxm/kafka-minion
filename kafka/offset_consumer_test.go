@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/Shopify/sarama"
-	"github.com/google-cloud-tools/kafka-minion/options"
+	"github.com/mxlxm/kafka-minion/options"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )

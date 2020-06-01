@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/google-cloud-tools/kafka-minion/options"
-	"github.com/google-cloud-tools/kafka-minion/storage"
+	"github.com/mxlxm/kafka-minion/options"
+	"github.com/mxlxm/kafka-minion/storage"
 	"github.com/prometheus/client_golang/prometheus"
 	log "github.com/sirupsen/logrus"
 )

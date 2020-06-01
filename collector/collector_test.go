@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/google-cloud-tools/kafka-minion/storage"
+	"github.com/mxlxm/kafka-minion/storage"
 )
 
 func TestGetVersionedConsumerGroups(t *testing.T) {
